@@ -2,9 +2,9 @@
 #### My portfolio with projects can be found [here](https://github.com/roelrrr/Portfolio)
 
 
-- 🔭 I’m currently searching for a final project to finish my master degree
-- 👷🏻  I'm currently participating in a BI competition 
-- 🌱 I’m currently learning Big Data Modeling in NEO4j,MongoDB and BI tools with PowerBI
+- 🔭 I’m currently searching for job 
+- 👷🏻  I'm currently doing an internship at a Dutch Crypto Broker as a Data Scientist
+- 🌱 I’m currently learning to create churn models
 - 👯 I’m looking to collaborate on data science or data analytics projects for start-ups or scale-ups 
 - 🤔 I’m looking for help with building the best and most efficient python lines :)
      Feel free to have a look in my projects and leave a comment if you might see improvements!
