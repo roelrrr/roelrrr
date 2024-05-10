@@ -1,11 +1,11 @@
 ### Hola, Welcome to my page 👋
 #### My portfolio with projects can be found [here](https://github.com/roelrrr/Portfolio)
 
-
-- 🔭 I’m currently searching for job 
-- 👷🏻  I'm currently doing an internship at a Dutch Crypto Broker as a Data Scientist
-- 🌱 I’m currently learning to create churn models
-- 👯 I’m looking to collaborate on data science or data analytics projects for start-ups or scale-ups 
+ 
+- 👷🏻 I'm currently working at OZ-Hami as a Data Scientist. 
+     OZ-Hami is a sister organisation of the Dutch Flower Group (DFG). OZ-Hami is focused on the export of flowers to 60 countries worldwide.
+- 🌱 I’m currently learning about Forecasting.
+- 👯 I’m currently writing a thesis about forecasting perishable goods.
 - 🤔 I’m looking for help with building the best and most efficient python lines :)
      Feel free to have a look in my projects and leave a comment if you might see improvements!
 - 💬 Ask me about my finished [projects](https://github.com/roelrrr/Portfolio) in Data Mining / Database Management Systems / Machine Learning 
