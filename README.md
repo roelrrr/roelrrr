@@ -1,11 +1,28 @@
-### Hola, Welcome to my page 👋
-#### My portfolio with projects can be found [here](https://github.com/roelrrr/Portfolio)
-
+ Hi, I'm Roeland 👋
  
-- 👷🏻 I'm currently working at OZ-Hami as a Data Scientist. 
-     OZ-Hami is a sister organisation of the Dutch Flower Group (DFG). OZ-Hami is focused on the export of flowers to 60 countries worldwide.
-- 🌱 I’m currently learning about Machine Learning Engineering.
-- 🤔 I’m looking for help with building the best and most efficient python lines :)
-     Feel free to have a look in my projects and leave a comment if you might see improvements!
-- 💬 Ask me about my finished [projects](https://github.com/roelrrr/Portfolio) in Data Mining / Database Management Systems / Machine Learning 
-- 📫 How to reach me: [LinkedIn - @RoelandRensink](https://www.linkedin.com/in/roeland-rensink-44a63914a/) or [Instagram - @Roelrrr_](https://www.instagram.com/roelrrr_/)
+**Data Engineer & Analytics Consultant** based in the Netherlands 🇳🇱
+I design and build modern cloud data platforms that turn raw data into reliable, decision-ready insights.
+ 
+---
+ 
+### 🔧 What I do
+- **Data platform engineering** – end-to-end lakehouse architectures on Microsoft Fabric, Azure and Databricks
+- **Data pipelines & ELT** – scalable ingestion, transformation and orchestration (medallion architecture)
+- **Analytics & BI enablement** – clean, well-modelled data for reporting and self-service analytics
+- **DataOps & engineering practices** – reusable Python packages, CI/CD, versioning and environment management
+- **Data strategy & advisory** – helping organisations choose and set up the right data infrastructure
+### 💼 Currently working with
+| Organisation | Focus |
+|---|---|
+| **CIZ** | Data engineering on a Microsoft Fabric / Azure data platform, incl. PySpark and internal Python packages |
+| **Gemeente Aalten** | Building a Microsoft Fabric data platform for a Dutch municipality |
+| **Heembouw** | Business analysis & data engineering in construction |
+ 
+### 🛠️ Tech stack
+**Cloud & platforms:** Microsoft Fabric · Azure 
+**Languages:** Python · SQL · PySpark
+**Engineering:** Git · CI/CD · Delta Lake
+**Analytics:** Power BI · data modelling · lakehouse / medallion architecture
+
+### 📫 Get in touch
+[LinkedIn](https://www.linkedin.com/in/roeland-rensink-44a63914a/) · [Email](mailto:you@example.com)
